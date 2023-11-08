@@ -97,3 +97,50 @@ jupyter notebook .
 |2|100690|Amridge University|2013|36117-3553|Doctor's degree - research/scholarship and professional practice|Montgomery County|-86\.17401|32\.362609|Churches of Christ|Implied no|Implied no|Yes|Implied no|Yes|Implied no|Yes|Implied no|Yes|Yes|Implied no|
 |3|100706|University of Alabama in Huntsville|2013|35899|Doctor's degree - research/scholarship and professional practice|Madison County|-86\.63842|34\.722818|Not applicable|Yes|Implied no|Implied no|Implied no|Yes|Yes|Yes|Yes|Yes|Yes|Implied no|
 |4|100724|Alabama State University|2013|36104-0271|Doctor's degree - research/scholarship and professional practice|Montgomery County|-86\.295677|32\.364317|Not applicable|Implied no|Implied no|Implied no|Implied no|Yes|Implied no|Yes|Yes|Yes|Yes|Implied no|
+
+
+
+## OUTPUT 
+
+- Plot for "Top 20 American Universities in 2013"
+<br/>
+
+[![BarPlot.png](img/barplot1.png)]()
+
+<br/>
+<br/>
+
+- Plot for "Distribution of number of applications"
+<br/>
+
+[![Barplot4.png](img/barplot4.png)]()
+
+<br/>
+<br/>
+
+
+- Plot for "Tuition and fees depending on the control of institution"
+<br/>
+
+[![Jointplot2.png](img/jointplot2.png)]()
+
+<br/>
+<br/>
+
+- Pie Chart for "Distribution of highest degree offered by the institution"
+<br/>
+
+[![Piechart.png](img/piechart.png)]()
+
+<br/>
+<br/>
+
+- Plot for "Correlation between Number of applications and enrollment rate"
+<br/>
+
+[![Scatterplot1.png](img/scatterplot1.png)]()
+
+<br/>
+<br/>
+
+
